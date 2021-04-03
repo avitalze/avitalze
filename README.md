@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything with great passion
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Find a new exciting job
-- ⚡ Fun fact: A professional off-road bike rider :bicyclist:
+- ⚡ Fun fact: I'm a professional off-road bike rider :bicyclist:
 
 ### Connect with me:
 
