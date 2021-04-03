@@ -1,8 +1,5 @@
 ### Hi there I'm Avital  👋
 
-<!--
-**avitalze/avitalze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm a Software Developer ✨
 ✨ I’m currently working on an extensive project
 🌱 I’m currently learning everything with great passion
