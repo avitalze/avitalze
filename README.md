@@ -15,7 +15,7 @@
  
 <br />
 
-### 🛠 &nbsp;Tech Stack
+### Tech Stack 🛠 &nbsp;
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
