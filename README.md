@@ -33,7 +33,7 @@
 
 
 ![sql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql)&nbsp;
-![azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure)&nbsp;
+![azure](https://img.shields.io/badge/Microsoft_Azure-00000F?style=flat&logo=microsoft-azure)&nbsp;
 
 ![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
