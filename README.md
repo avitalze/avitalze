@@ -35,9 +35,9 @@
 ![sql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql)&nbsp;
 ![azure](https://img.shields.io/badge/Microsoft_Azure-00000F?style=flat&logo=microsoft-azure)&nbsp;
 
-![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![jUnit](https://img.shields.io/badge/jUnit%20-00000F.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy%20-00000F.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-00000F.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
