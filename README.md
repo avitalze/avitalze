@@ -30,6 +30,8 @@
 ![vue.js](https://img.shields.io/badge/Vue.js-00000F?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)&nbsp;
+
 
 
 ![sql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql)&nbsp;
