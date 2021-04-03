@@ -1,11 +1,11 @@
 ### Hi there I'm Avital  👋
 
 ## I'm a Software Developer ✨
-✨ I’m currently working on an extensive project
-🌱 I’m currently learning everything with great passion
-👯 I’m looking to collaborate with other content creators
-🥅 2021 Goals: Find a new job
-⚡ Fun fact: A professional off-road bike rider :bicyclist:
+- ✨ I’m currently working on an extensive project
+- 🌱 I’m currently learning everything with great passion
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Find a new job
+- ⚡ Fun fact: A professional off-road bike rider :bicyclist:
 
 
 - 🔭 I’m currently working on ...
