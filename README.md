@@ -10,8 +10,8 @@
 
 ###  📫  Connect with me:
 
-   [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-   [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+ &emsp [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ &emsp  [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
  
 <br />
 
@@ -21,9 +21,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-
-
-### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -40,18 +37,11 @@
 ![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 
 <br />
 
 <br />
 <br />
-
-
-
-### Softwares:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
 
